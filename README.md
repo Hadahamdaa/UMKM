@@ -45,7 +45,7 @@ This project aims to make it easier for UMKM owners to post job vacancies and fo
 ├── style.css
 ├── script.js
 └── vercel.json
-
+```
 🛠️ Tech Stack
 Frontend: HTML5, CSS3, JavaScript
 Deployment: Vercel
