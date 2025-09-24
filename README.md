@@ -56,4 +56,4 @@ Job seekers can browse vacancies and apply directly
 Profiles help distinguish between job creators and job seekers
 
 🌐 Live Demo
-Check out the live site here: (umkm-nu.vercel.app)
+Check out the live site here: [umkm-nu.vercel.app](umkm-nu.vercel.app)
